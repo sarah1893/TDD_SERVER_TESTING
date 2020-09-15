@@ -1,0 +1,16 @@
+{
+    "name": "tdd-server-stack-2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "bin/mocha-test"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "chai": "^3.5.0",
+      "mocha": "^3.5.3"
+    }
+  }
+  
